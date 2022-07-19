@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(95, 98, 145);
+}
+.ui{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: rgba(155, 173, 185, 0.952);
+    color: blanchedalmond;
+
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 50px;
+    background-color: rgb(44, 126, 126);
+
+}
